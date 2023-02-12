@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project contains code for analyzing e-commerce sales data of a company called Olist. The data contains information about customer orders, reviews, payments, and more. The aim of the project is to understand sales patterns and customer behavior.
+This project contains code for analyzing e-commerce sales data of a company called Olist. The data contains information about customer orders, reviews, payments, and more. The aim of the project is to understand sales patterns, customer behavior and delivery
 
 ## Requirements
 
@@ -27,3 +27,5 @@ The results of the analysis can be used to make informed decisions and improve t
 ## How to use
 
 Clone this repository to your local machine and open the Jupyter Notebook file. The code is well documented, and you can run each cell to see the output. Make sure to install all the required libraries before running the code.
+
+You can get the details analysis from this [medium blog](https://si-nau.medium.com/data-wrangling-and-analysis-in-ecommerce-pt1-9721f1263f2)
