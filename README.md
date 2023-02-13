@@ -14,7 +14,7 @@ To run the code in this project, you need to have the following software install
 
 ## Data
 
-The data used in this project was obtained from Kaggle and contains information about e-commerce sales from a Brazilian online retailer Olist.
+The data used in this project was obtained from [this](https://drive.google.com/drive/folders/1y-or_Rba1ambWkkNzhYKtRHRwC7g0A5n) and contains information about e-commerce sales from a Brazilian online retailer Olist.
 
 ## Methodology
 
@@ -28,4 +28,4 @@ The results of the analysis can be used to make informed decisions and improve t
 
 Clone this repository to your local machine and open the Jupyter Notebook file. The code is well documented, and you can run each cell to see the output. Make sure to install all the required libraries before running the code.
 
-You can get the details analysis from this [medium blog](https://si-nau.medium.com/data-wrangling-and-analysis-in-ecommerce-pt1-9721f1263f2)
+You can find the detailed analysis in this [medium blog](https://si-nau.medium.com/data-wrangling-and-analysis-in-ecommerce-pt1-9721f1263f2)
